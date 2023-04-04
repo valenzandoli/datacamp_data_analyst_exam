@@ -1,2 +1,2 @@
-# datacamp_data_analyst_exam
+# DataCamp Data Analyst Associate Practical Exam
  
